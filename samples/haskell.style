@@ -1,0 +1,6 @@
+[
+("\\b(module|import|qualified|where|class|instance|type|newtype|data|do|case|of|let|if|in|then|else)\\b", [Bold, Foreground Blue]),
+("\\b([A-Z]\\w*)\\b", [Bold, Foreground Red]),
+("\\b([A-Z][A-Za-z0-9_]*)\\b", [Bold, Foreground Red]),
+("--.*", [Foreground Cyan])
+]

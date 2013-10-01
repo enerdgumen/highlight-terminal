@@ -1,0 +1,5 @@
+[ 
+(".+", [Foreground Black, Background White]),
+("[0-9]+", [Foreground Green]),
+("[A-Z]+", [Bold, Italic])
+]

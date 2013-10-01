@@ -1,0 +1,5 @@
+syntax: glob
+.project
+.settings
+.dist-buildwrapper
+dist
